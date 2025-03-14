@@ -6,7 +6,10 @@ namespace RPGturnos
 {
     class Itens
     {
-        string[,] equipamentos = new string[20, 5];
+        public void listarItens()
+        {
+            
+        }
 
     }
 }
