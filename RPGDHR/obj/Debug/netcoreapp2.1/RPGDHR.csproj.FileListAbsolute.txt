@@ -1,0 +1,11 @@
+C:\Users\Aluno\source\repos\RPGDHR\RPGDHR\obj\Debug\netcoreapp2.1\RPGDHR.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\RPGDHR\RPGDHR\obj\Debug\netcoreapp2.1\RPGDHR.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\RPGDHR\RPGDHR\obj\Debug\netcoreapp2.1\RPGDHR.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\RPGDHR\RPGDHR\obj\Debug\netcoreapp2.1\RPGDHR.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\RPGDHR\RPGDHR\bin\Debug\netcoreapp2.1\RPGDHR.deps.json
+C:\Users\Aluno\source\repos\RPGDHR\RPGDHR\bin\Debug\netcoreapp2.1\RPGDHR.runtimeconfig.json
+C:\Users\Aluno\source\repos\RPGDHR\RPGDHR\bin\Debug\netcoreapp2.1\RPGDHR.runtimeconfig.dev.json
+C:\Users\Aluno\source\repos\RPGDHR\RPGDHR\bin\Debug\netcoreapp2.1\RPGDHR.dll
+C:\Users\Aluno\source\repos\RPGDHR\RPGDHR\bin\Debug\netcoreapp2.1\RPGDHR.pdb
+C:\Users\Aluno\source\repos\RPGDHR\RPGDHR\obj\Debug\netcoreapp2.1\RPGDHR.dll
+C:\Users\Aluno\source\repos\RPGDHR\RPGDHR\obj\Debug\netcoreapp2.1\RPGDHR.pdb
