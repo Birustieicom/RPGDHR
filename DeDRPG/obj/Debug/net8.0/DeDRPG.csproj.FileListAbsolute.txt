@@ -1,4 +1,0 @@
-C:\Users\Aluno\source\repos\D&DRPG\D&DRPG\obj\Debug\net8.0\DeDRPG.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Aluno\source\repos\D&DRPG\D&DRPG\obj\Debug\net8.0\DeDRPG.AssemblyInfoInputs.cache
-C:\Users\Aluno\source\repos\D&DRPG\D&DRPG\obj\Debug\net8.0\DeDRPG.AssemblyInfo.cs
-C:\Users\Aluno\source\repos\D&DRPG\D&DRPG\obj\Debug\net8.0\DeDRPG.csproj.CoreCompileInputs.cache
